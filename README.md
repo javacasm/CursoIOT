@@ -7,3 +7,7 @@
 Sensores y actuadores
 
 ESP y bigdata
+
+## Referencias
+
+[Hazte un IOT](https://github.com/javacasm/IOT_Hazte)
