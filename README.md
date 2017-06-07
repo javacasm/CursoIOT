@@ -64,3 +64,5 @@ El coste de 10 kits OIT (más los componentes que ya tiene el CEP) sería de uno
 [Sobre IOT](http://www.domodesk.com/a-fondo-que-es-el-internet-de-las-cosas)
 [Hazte un IOT](https://github.com/javacasm/IOT_Hazte)
 [MQTT y ESP8266](http://blog.bricogeek.com/noticias/raspberry-pi/tutorial-mqtt-con-raspberry-y-esp8266-para-arduino/)
+[Hacking IKEA Lamp]( https://youtu.be/olxPqiJcUAQ)
+[Presentaciones de la asignatura de IOT de Fernando Tricas](http://webdiis.unizar.es/~ftricas/Asignaturas/iot/transparencias.html)
