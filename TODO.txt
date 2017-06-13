@@ -1,0 +1,9 @@
+Investigar MQTT en Raspberry (mosquito?)
+Comprar ikea smart lamp
+
+
+[Mongoose](http://tech.scargill.net/mongoose-os/)
+
+
+## Ejemplos
+[IOT Fidget](https://www.instructables.com/id/IoT-Fidget)
