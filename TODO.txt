@@ -7,3 +7,5 @@ Comprar ikea smart lamp
 
 ## Ejemplos
 [IOT Fidget](https://www.instructables.com/id/IoT-Fidget)
+
+[12 IOT Platforms](http://blog.initialstate.com/iot-platforms/)
