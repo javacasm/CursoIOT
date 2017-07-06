@@ -5,6 +5,8 @@ Comprar ikea smart lamp
 [Mongoose](http://tech.scargill.net/mongoose-os/)
 
 
+[Propuesta de estándar](https://www.edgexfoundry.org/)
+
 ## Ejemplos
 [IOT Fidget](https://www.instructables.com/id/IoT-Fidget)
 
@@ -12,5 +14,6 @@ Comprar ikea smart lamp
 
 [IOT Class](https://www.instructables.com/class/Internet-of-Things-Class/)
 
+[Automatización IOT en casa](http://www.instructables.com/id/ESP8266-01-IoT-Smart-Timer-for-Home-Automation/)
 
 https://programarfacil.com/esp8266/proyectos-con-esp8266-iot/
