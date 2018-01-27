@@ -15,6 +15,8 @@
 
 [Plataformas IOT](https://www.i-scoop.eu/internet-of-things-guide/iot-technology-stack-devices-gateways-platforms/)
 
+[What is IOT](https://www.survivingwithandroid.com/2016/11/what-is-iot-internet-of-things.html)
+
 ## Algunos ejemplos:
 
 * Pulsera para medir la actividad física
