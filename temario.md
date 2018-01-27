@@ -18,6 +18,9 @@ Componentes:
 * servidores
 * nube
 
+Protocolos
+* MQTT
+* REST API
 
 
 Procesamiento de datos
