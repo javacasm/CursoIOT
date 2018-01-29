@@ -13,6 +13,8 @@ Características de los Componentes
   comunicaciones
   toma de decisiones
 
+OTA
+
 tecnologías
 * Lora
 * [Sigfox](https://www.sigfox.com/en)
