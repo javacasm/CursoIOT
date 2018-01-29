@@ -7,20 +7,28 @@ Ejemplos
 * Sensores en agricultura
 
 
-Caracteristicas de los Componentes
-  alimentacion
+Características de los Componentes
+  alimentación
   recogida y almacenamiento de datos
   comunicaciones
   toma de decisiones
+
+tecnologías
+* Lora
+* [Sigfox](https://www.sigfox.com/en)
+  [¿qué es SigFox?](https://en.wikipedia.org/wiki/Sigfox)
+  [Placa MKR1200](https://www.arduino.cc/en/Main.ArduinoBoardMKRFox1200)
 
 Componentes:
 * equipos de campo
 * servidores
 * nube
 
-Protocolos
+[Protocolos](https://www.sparkfun.com/news/1705)
 * MQTT
+  [CloudMQTT](https://www.cloudmqtt.com/docs.html)
 * REST API
+* COAP
 
 
 Procesamiento de datos
